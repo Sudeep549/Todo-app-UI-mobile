@@ -6,7 +6,7 @@
     height:320px;
     width:210px;
     text-align:center;
-    margin-left:150px;
+    margin-left:400px;
     margin-top:120px;
     
 }
@@ -18,7 +18,7 @@
     height:320px;
     width:210px;
     text-align:center;
-    margin-left:400px;
+    margin-left:675px;
     margin-top:-322px;
 }
 
@@ -29,30 +29,8 @@
     height:320px;
     width:210px;
     text-align:center;
-    margin-left:650px;
+    margin-left:950px;
     margin-top:-321px;
-}
-
-.border3{
-    border:1px solid red;
-    border-radius:5px;
-    box-shadow:4px 4px 10px 0px;
-    height:320px;
-    width:210px;
-    text-align:center;
-    margin-left:900px;
-    margin-top:-322px;
-}
-
-.border4{
-    border:1px solid red;
-    border-radius:5px;
-    box-shadow:4px 4px 10px 0px;
-    height:320px;
-    width:210px;
-    text-align:center;
-    margin-left:1150px;
-    margin-top:-322px;
 }
 
 
@@ -75,13 +53,13 @@ hr{
     margin-top: 40px;
 }
 .child{
-    margin-left: 150px;
+    margin-left: 390px;
     font-size:50px;
     margin-top:40px;
 }
 
 .addlist{
-   margin-left:380px;
+   margin-left:620px;
    margin-top: -48px;
    position:absolute;
    height:45px;
@@ -160,8 +138,8 @@ hr{
 }
  
 .anchor{
-    margin-left:1400px;
-    margin-top: 30px;
+    margin-left:1150px;
+    margin-top: 60px;
     font-size: 20px;
 }
 
@@ -436,8 +414,25 @@ hr{
 }
 
 .home{
-    margin-left:990px;
-    margin-top: -14px;
+    margin-left:400px;
+    margin-top: 5px;
+    position: absolute;
+}
+
+button{
+    border:1px solid red;
+    border-radius:10px;
+    background-color:red;
+    width:80px;
+    height:40px;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
 }
 
 
@@ -447,7 +442,7 @@ hr{
         width:330px;
         height:80px;
         margin-left:50px;
-        margin-top: 30px;
+        margin-top: 80px;
         overflow: hidden;
         
 
@@ -457,7 +452,7 @@ hr{
         width:330px;
         height:80px;
         margin-left:50px;
-        margin-top: 40px;
+        margin-top: 80px;
         overflow: hidden;
       
 
@@ -467,29 +462,9 @@ hr{
         width:330px;
         height:80px;
         margin-left:50px;
-        margin-top: 40px;
+        margin-top: 80px;
         overflow: hidden;
         
-
-    }
-
-    .border3{
-        width:330px;
-        height:80px;
-        margin-left:50px;
-        margin-top: 40px;
-        overflow: hidden;
-       
-
-    }
-    
-    .border4{
-        width:330px;
-        height:80px;
-        margin-left:50px;
-        margin-top: 40px;
-        overflow: hidden;
-       
 
     }
 
